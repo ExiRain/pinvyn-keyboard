@@ -26,6 +26,7 @@ Pinvyn is a split keyboard for coding and writing, with a thumb trackball on the
 |---|---|
 | [docs/HANDOFF.md](docs/HANDOFF.md) | Build guide and handoff: start here to continue the project |
 | [docs/design.md](docs/design.md) | Design decisions, the reasons behind them and the open questions |
+| [docs/wiring.md](docs/wiring.md) | Wiring plan for v0.1: key matrix, controller pins, diagrams |
 | [docs/bom.md](docs/bom.md) | Parts list for v0.1 and where to order |
 | [layout/pinvyn-v0.1-layout.json](layout/pinvyn-v0.1-layout.json) | Key and part positions per half |
 | [layout/pinvyn-v0.1-layout.svg](layout/pinvyn-v0.1-layout.svg) | Layout drawing |

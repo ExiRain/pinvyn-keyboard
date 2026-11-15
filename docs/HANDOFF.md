@@ -17,7 +17,7 @@ Written 2026-11-15. This file is the single starting point for anyone, human or 
 | Layout | Agreed as the base prototype. Angles are a first guess from a paper sketch |
 | Parts | Chosen, see section 5. Ball ordered or about to be; the rest still to order |
 | Case | Not started. Next real task |
-| Wiring plan | Draft pin budget in section 8, not final |
+| Wiring plan | Done as a plan in `docs/wiring.md`: matrix, pins and diagrams. Not built or tested |
 | Firmware | Not started |
 | PCB | Deliberately postponed until v0.1 has been used |
 
@@ -34,7 +34,7 @@ Name: **Pinvyn**. Brand: ExiledRain. Product mark: a red feather. Licences: hard
 ![Pinvyn v0.1 layout](../layout/pinvyn-v0.1-layout.svg)
 
 - 73 keys, 30 left and 43 right. Full-height MX switches, 19.05 mm spacing, column stagger.
-- Exact positions, sizes and rotations: `layout/pinvyn-v0.1-layout.json`. Regenerate with `python3 layout/generate_layout.py`.
+- Exact positions, sizes and rotations: `layout/pinvyn-v0.1-layout.json`. Regenerate with `python3 layout/generate_layout.py`, then `python3 layout/generate_wiring.py`, in that order.
 - Three 2u keys: Space on each half and Enter.
 - Size before case walls: left about 158 × 128 mm, right about 205 × 129 mm.
 
@@ -157,7 +157,7 @@ Print small test pieces before a whole half: a 2 × 2 switch coupon with one sta
 ### Step 4: wire
 
 - One diode per switch, all facing the same way. Diode legs form the rows, separate wires form the columns.
-- Follow the pin plan in section 8 once it is final.
+- Follow `docs/wiring.md` for the matrix, the pins and the order of work.
 - Always switch the power off before plugging or unplugging the TRRS cable. The plug shorts contacts as it slides in.
 
 ### Step 5: firmware
@@ -175,7 +175,9 @@ A ZMK config repository with a left (central) and right (peripheral) shield:
 
 Keep `docs/issues.md`. Typical things to judge: thumb reach to the ball, key angles, Caps Lock position, scroller feel, cursor jitter, battery life. That list decides what v0.2 and the PCB change.
 
-## 8. Draft pin budget
+## 8. Pin budget
+
+The full pin assignment is in `docs/wiring.md`. Summary:
 
 A nice!nano v2-type board has 18 pins on its edges and 3 more pads underneath, 21 in total. **VERIFY** on the boards bought.
 

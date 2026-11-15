@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 516" font-family="Helvetica, Arial, sans-serif" font-size="12">
+<title>Pinvyn v0.1 wiring, left half, seen from below</title>
+<rect width="530" height="516" fill="#ffffff"/>
+<text x="30" y="30" fill="#2C2C2A" font-size="14">Left half, seen from below (the side you solder on)</text>
+<rect x="447.4" y="84.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="447.4" y="140.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="391.4" y="140.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="335.4" y="126.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="279.4" y="119.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="223.4" y="126.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="167.4" y="133.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="447.4" y="196.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="391.4" y="196.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="335.4" y="182.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="279.4" y="175.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="223.4" y="182.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="167.4" y="189.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="447.4" y="252.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="391.4" y="252.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="335.4" y="238.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="279.4" y="231.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="223.4" y="238.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="167.4" y="245.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="447.4" y="308.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="391.4" y="308.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="335.4" y="294.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="279.4" y="287.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="223.4" y="294.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="167.4" y="301.0" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="423.9" y="368.2" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="366.2" y="368.2" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<rect x="304.6" y="368.2" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1" transform="rotate(-4 329.6 393.2)"/>
+<rect x="184.2" y="373.8" width="106.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1" transform="rotate(-8 237.2 398.8)"/>
+<rect x="97.4" y="225.4" width="50.0" height="50.0" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1"/>
+<polyline points="458.4,109.0 458.4,165.0 458.4,221.0 458.4,277.0 458.4,333.0" fill="none" stroke="#185FA5" stroke-width="2"/>
+<polyline points="402.4,165.0 402.4,221.0 402.4,277.0 402.4,333.0 434.9,393.2" fill="none" stroke="#185FA5" stroke-width="2"/>
+<polyline points="346.4,151.0 346.4,207.0 346.4,263.0 346.4,319.0 377.2,393.2" fill="none" stroke="#185FA5" stroke-width="2"/>
+<polyline points="290.4,144.0 290.4,200.0 290.4,256.0 290.4,312.0 315.6,393.2" fill="none" stroke="#185FA5" stroke-width="2"/>
+<polyline points="234.4,151.0 234.4,207.0 234.4,263.0 234.4,319.0 223.2,398.8" fill="none" stroke="#185FA5" stroke-width="2"/>
+<polyline points="178.4,158.0 178.4,214.0 178.4,270.0 178.4,326.0" fill="none" stroke="#185FA5" stroke-width="2"/>
+<line x1="108.4" y1="250.4" x2="178.4" y2="270.0" stroke="#185FA5" stroke-width="2"/>
+<polyline points="192.4,172.0 248.4,165.0 304.4,158.0 360.4,165.0 416.4,179.0 472.4,179.0" fill="none" stroke="#A32D2D" stroke-width="2" stroke-dasharray="7 3"/>
+<polyline points="192.4,228.0 248.4,221.0 304.4,214.0 360.4,221.0 416.4,235.0 472.4,235.0" fill="none" stroke="#BA7517" stroke-width="2" stroke-dasharray="7 3"/>
+<polyline points="192.4,284.0 248.4,277.0 304.4,270.0 360.4,277.0 416.4,291.0 472.4,291.0" fill="none" stroke="#3B6D11" stroke-width="2" stroke-dasharray="7 3"/>
+<polyline points="192.4,340.0 248.4,333.0 304.4,326.0 360.4,333.0 416.4,347.0 472.4,347.0" fill="none" stroke="#0F6E56" stroke-width="2" stroke-dasharray="7 3"/>
+<polyline points="237.2,412.8 329.6,407.2 391.2,407.2 448.9,407.2" fill="none" stroke="#993556" stroke-width="2" stroke-dasharray="7 3"/>
+<line x1="122.4" y1="264.4" x2="237.2" y2="412.8" stroke="#993556" stroke-width="2" stroke-dasharray="7 3"/>
+<line x1="472.4" y1="123.0" x2="448.9" y2="407.2" stroke="#993556" stroke-width="2" stroke-dasharray="7 3"/>
+<text x="478.4" y="101.0" text-anchor="middle" fill="#2C2C2A">Esc</text>
+<text x="478.4" y="115.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C0</text>
+<text x="478.4" y="157.0" text-anchor="middle" fill="#2C2C2A">`</text>
+<text x="478.4" y="171.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C0</text>
+<text x="422.4" y="157.0" text-anchor="middle" fill="#2C2C2A">1</text>
+<text x="422.4" y="171.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C1</text>
+<text x="366.4" y="143.0" text-anchor="middle" fill="#2C2C2A">2</text>
+<text x="366.4" y="157.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C2</text>
+<text x="310.4" y="136.0" text-anchor="middle" fill="#2C2C2A">3</text>
+<text x="310.4" y="150.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C3</text>
+<text x="254.4" y="143.0" text-anchor="middle" fill="#2C2C2A">4</text>
+<text x="254.4" y="157.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C4</text>
+<text x="198.4" y="150.0" text-anchor="middle" fill="#2C2C2A">5</text>
+<text x="198.4" y="164.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R0 C5</text>
+<text x="478.4" y="213.0" text-anchor="middle" fill="#2C2C2A">Tab</text>
+<text x="478.4" y="227.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C0</text>
+<text x="422.4" y="213.0" text-anchor="middle" fill="#2C2C2A">Q</text>
+<text x="422.4" y="227.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C1</text>
+<text x="366.4" y="199.0" text-anchor="middle" fill="#2C2C2A">W</text>
+<text x="366.4" y="213.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C2</text>
+<text x="310.4" y="192.0" text-anchor="middle" fill="#2C2C2A">E</text>
+<text x="310.4" y="206.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C3</text>
+<text x="254.4" y="199.0" text-anchor="middle" fill="#2C2C2A">R</text>
+<text x="254.4" y="213.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C4</text>
+<text x="198.4" y="206.0" text-anchor="middle" fill="#2C2C2A">T</text>
+<text x="198.4" y="220.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R1 C5</text>
+<text x="478.4" y="269.0" text-anchor="middle" fill="#2C2C2A">Shift</text>
+<text x="478.4" y="283.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C0</text>
+<text x="422.4" y="269.0" text-anchor="middle" fill="#2C2C2A">A</text>
+<text x="422.4" y="283.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C1</text>
+<text x="366.4" y="255.0" text-anchor="middle" fill="#2C2C2A">S</text>
+<text x="366.4" y="269.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C2</text>
+<text x="310.4" y="248.0" text-anchor="middle" fill="#2C2C2A">D</text>
+<text x="310.4" y="262.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C3</text>
+<text x="254.4" y="255.0" text-anchor="middle" fill="#2C2C2A">F</text>
+<text x="254.4" y="269.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C4</text>
+<text x="198.4" y="262.0" text-anchor="middle" fill="#2C2C2A">G</text>
+<text x="198.4" y="276.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R2 C5</text>
+<text x="478.4" y="325.0" text-anchor="middle" fill="#2C2C2A">Ctrl</text>
+<text x="478.4" y="339.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C0</text>
+<text x="422.4" y="325.0" text-anchor="middle" fill="#2C2C2A">Z</text>
+<text x="422.4" y="339.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C1</text>
+<text x="366.4" y="311.0" text-anchor="middle" fill="#2C2C2A">X</text>
+<text x="366.4" y="325.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C2</text>
+<text x="310.4" y="304.0" text-anchor="middle" fill="#2C2C2A">C</text>
+<text x="310.4" y="318.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C3</text>
+<text x="254.4" y="311.0" text-anchor="middle" fill="#2C2C2A">V</text>
+<text x="254.4" y="325.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C4</text>
+<text x="198.4" y="318.0" text-anchor="middle" fill="#2C2C2A">B</text>
+<text x="198.4" y="332.0" text-anchor="middle" fill="#5F5E5A" font-size="10">R3 C5</text>
+<text x="454.9" y="385.2" text-anchor="middle" fill="#2C2C2A">Win</text>
+<text x="454.9" y="399.2" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C1</text>
+<text x="397.2" y="385.2" text-anchor="middle" fill="#2C2C2A">Fn</text>
+<text x="397.2" y="399.2" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C2</text>
+<text x="335.6" y="385.2" text-anchor="middle" fill="#2C2C2A">Alt</text>
+<text x="335.6" y="399.2" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C3</text>
+<text x="243.2" y="390.8" text-anchor="middle" fill="#2C2C2A">Space</text>
+<text x="243.2" y="404.8" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C4</text>
+<text x="128.4" y="242.4" text-anchor="middle" fill="#2C2C2A">Caps</text>
+<text x="128.4" y="256.4" text-anchor="middle" fill="#5F5E5A" font-size="10">R4 C5</text>
+<line x1="30" y1="482" x2="70" y2="482" stroke="#185FA5" stroke-width="2"/>
+<text x="78" y="486" fill="#444441">Column wire (solid)</text>
+<line x1="230" y1="482" x2="270" y2="482" stroke="#A32D2D" stroke-width="2" stroke-dasharray="7 3"/>
+<text x="278" y="486" fill="#444441">Row wire (dashed), via the diodes</text>
+</svg>
