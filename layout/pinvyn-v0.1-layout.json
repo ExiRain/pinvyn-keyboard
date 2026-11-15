@@ -1,0 +1,687 @@
+{
+  "name": "Pinvyn",
+  "version": "v0.1",
+  "unit_mm": 19.05,
+  "conventions": "per-half origin at top-left, x right, y down, positions are centres in key units, rot in degrees clockwise seen from above",
+  "halves": {
+    "left": {
+      "width_u": 8.4,
+      "keys": [
+        {
+          "label": "Esc",
+          "cx": 0.5,
+          "cy": 0.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "`",
+          "cx": 0.5,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "1",
+          "cx": 1.5,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F1"
+        },
+        {
+          "label": "2",
+          "cx": 2.5,
+          "cy": 1.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F2"
+        },
+        {
+          "label": "3",
+          "cx": 3.5,
+          "cy": 1.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F3"
+        },
+        {
+          "label": "4",
+          "cx": 4.5,
+          "cy": 1.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F4"
+        },
+        {
+          "label": "5",
+          "cx": 5.5,
+          "cy": 1.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F5"
+        },
+        {
+          "label": "Tab",
+          "cx": 0.5,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Q",
+          "cx": 1.5,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "W",
+          "cx": 2.5,
+          "cy": 2.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "E",
+          "cx": 3.5,
+          "cy": 2.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "R",
+          "cx": 4.5,
+          "cy": 2.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "T",
+          "cx": 5.5,
+          "cy": 2.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Shift",
+          "cx": 0.5,
+          "cy": 3.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "A",
+          "cx": 1.5,
+          "cy": 3.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "S",
+          "cx": 2.5,
+          "cy": 3.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "D",
+          "cx": 3.5,
+          "cy": 3.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "F",
+          "cx": 4.5,
+          "cy": 3.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "G",
+          "cx": 5.5,
+          "cy": 3.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Ctrl",
+          "cx": 0.5,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Z",
+          "cx": 1.5,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "X",
+          "cx": 2.5,
+          "cy": 4.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "C",
+          "cx": 3.5,
+          "cy": 4.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "V",
+          "cx": 4.5,
+          "cy": 4.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "B",
+          "cx": 5.5,
+          "cy": 4.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Win",
+          "cx": 0.92,
+          "cy": 5.95,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Fn",
+          "cx": 1.95,
+          "cy": 5.95,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "hold layer key"
+        },
+        {
+          "label": "Alt",
+          "cx": 3.05,
+          "cy": 5.95,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 4
+        },
+        {
+          "label": "Space",
+          "cx": 4.7,
+          "cy": 6.05,
+          "w": 2.0,
+          "h": 1.0,
+          "rot": 8,
+          "note": "2u, stabilizer"
+        },
+        {
+          "label": "Caps",
+          "cx": 6.75,
+          "cy": 3.4,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "set apart from the G column on purpose"
+        }
+      ],
+      "parts": [
+        {
+          "kind": "display",
+          "label": "Display",
+          "cx": 7.92,
+          "cy": 1.95,
+          "w": 0.735,
+          "h": 1.89,
+          "rot": 0.0,
+          "note": "nice!view type, 14 x 36 mm, battery status; left controller sits under it"
+        },
+        {
+          "kind": "scroll_h",
+          "label": "Scroll H",
+          "cx": 7.1,
+          "cy": 4.75,
+          "w": 1.75,
+          "h": 0.65,
+          "rot": 20,
+          "note": "left/right scroll, mouse-wheel encoder with printed wheel"
+        },
+        {
+          "kind": "scroll_v",
+          "label": "Scroll V",
+          "cx": 6.75,
+          "cy": 6.2,
+          "w": 0.7,
+          "h": 1.6,
+          "rot": 20,
+          "note": "up/down scroll, mouse-wheel encoder with printed wheel"
+        }
+      ],
+      "bounds_mm": {
+        "width": 157.9,
+        "height": 127.6
+      },
+      "key_count": 30
+    },
+    "right": {
+      "width_u": 10.9,
+      "keys": [
+        {
+          "label": "PrtSc",
+          "cx": 7.4,
+          "cy": 0.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Ins",
+          "cx": 8.4,
+          "cy": 0.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Home",
+          "cx": 9.4,
+          "cy": 0.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "End",
+          "cx": 10.4,
+          "cy": 0.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "6",
+          "cx": 3.4,
+          "cy": 1.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F6"
+        },
+        {
+          "label": "7",
+          "cx": 4.4,
+          "cy": 1.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F7"
+        },
+        {
+          "label": "8",
+          "cx": 5.4,
+          "cy": 1.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F8"
+        },
+        {
+          "label": "9",
+          "cx": 6.4,
+          "cy": 1.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F9"
+        },
+        {
+          "label": "0",
+          "cx": 7.4,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F10"
+        },
+        {
+          "label": "-",
+          "cx": 8.4,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F11"
+        },
+        {
+          "label": "=",
+          "cx": 9.4,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "fn": "F12"
+        },
+        {
+          "label": "Bksp",
+          "cx": 10.4,
+          "cy": 1.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Y",
+          "cx": 3.4,
+          "cy": 2.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "U",
+          "cx": 4.4,
+          "cy": 2.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "I",
+          "cx": 5.4,
+          "cy": 2.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "O",
+          "cx": 6.4,
+          "cy": 2.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "P",
+          "cx": 7.4,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "[",
+          "cx": 8.4,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "]",
+          "cx": 9.4,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "\\",
+          "cx": 10.4,
+          "cy": 2.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "H",
+          "cx": 3.4,
+          "cy": 3.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "J",
+          "cx": 4.4,
+          "cy": 3.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "K",
+          "cx": 5.4,
+          "cy": 3.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "L",
+          "cx": 6.4,
+          "cy": 3.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": ";",
+          "cx": 7.4,
+          "cy": 3.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "'",
+          "cx": 8.4,
+          "cy": 3.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "N",
+          "cx": 3.4,
+          "cy": 4.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "M",
+          "cx": 4.4,
+          "cy": 4.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": ",",
+          "cx": 5.4,
+          "cy": 4.5,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": ".",
+          "cx": 6.4,
+          "cy": 4.625,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "/",
+          "cx": 7.4,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Shift",
+          "cx": 8.4,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Up",
+          "cx": 9.4,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Del",
+          "cx": 10.4,
+          "cy": 4.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Enter",
+          "cx": 9.9,
+          "cy": 3.875,
+          "w": 2.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "2u, stabilizer"
+        },
+        {
+          "label": "Left",
+          "cx": 8.4,
+          "cy": 5.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Down",
+          "cx": 9.4,
+          "cy": 5.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Right",
+          "cx": 10.4,
+          "cy": 5.875,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0
+        },
+        {
+          "label": "Space",
+          "cx": 4.15,
+          "cy": 5.95,
+          "w": 2.0,
+          "h": 1.0,
+          "rot": -8,
+          "note": "2u, stabilizer"
+        },
+        {
+          "label": "Fn",
+          "cx": 5.85,
+          "cy": 5.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "second hold layer key"
+        },
+        {
+          "label": "RMB",
+          "cx": 1.2,
+          "cy": 3.9,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": -12,
+          "note": "right mouse button"
+        },
+        {
+          "label": "LMB",
+          "cx": 2.4,
+          "cy": 3.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "left mouse button, index finger"
+        },
+        {
+          "label": "B",
+          "cx": 2.4,
+          "cy": 4.75,
+          "w": 1.0,
+          "h": 1.0,
+          "rot": 0.0,
+          "note": "second B"
+        }
+      ],
+      "parts": [
+        {
+          "kind": "trackball",
+          "label": "Ball",
+          "cx": 1.8499999999999999,
+          "cy": 6.25,
+          "w": 1.785,
+          "h": 1.785,
+          "rot": 0.0,
+          "note": "34 mm ball, thumb operated, PMW3610 sensor underneath"
+        },
+        {
+          "kind": "controller",
+          "label": "MCU",
+          "cx": 0.75,
+          "cy": 1.875,
+          "w": 1.2,
+          "h": 1.75,
+          "rot": 0.0,
+          "note": "right controller, hidden inside the case, no display on this half"
+        }
+      ],
+      "bounds_mm": {
+        "width": 204.8,
+        "height": 128.9
+      },
+      "key_count": 43
+    }
+  }
+}
