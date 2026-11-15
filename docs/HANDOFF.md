@@ -16,7 +16,7 @@ Written 2026-11-15. This file is the single starting point for anyone, human or 
 |---|---|
 | Layout | Agreed as the base prototype. Angles are a first guess from a paper sketch |
 | Parts | Chosen, see section 5. Ball ordered or about to be; the rest still to order |
-| Case | Not started. Next real task |
+| Case | First step done: `case/generate_plate.py` produces a switch plate with a skirt for each half and a small fit-test piece. Not printed yet. Trackball cup, scroller mounts, tray and openings still to do |
 | Wiring plan | Done as a plan in `docs/wiring.md`: matrix, pins and diagrams. Not built or tested |
 | Firmware | Not started |
 | PCB | Deliberately postponed until v0.1 has been used |
@@ -139,7 +139,7 @@ Record in `docs/measurements.md`: sensor board outline and hole spacing, encoder
 
 ### Step 3: model the case
 
-Recommended tool: a code-based CAD (OpenSCAD or build123d), reading `layout/pinvyn-v0.1-layout.json`. The layout is already data, and a script can be regenerated when angles change.
+Start from `case/generate_plate.py` (Python with shapely and trimesh), which already reads `layout/pinvyn-v0.1-layout.json` and writes STL files. Print `case/pinvyn-v0.1-coupon.stl` first. The layout is already data, and a script can be regenerated when angles change.
 
 Per half: a switch plate and a tray that screws to it.
 

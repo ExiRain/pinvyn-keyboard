@@ -30,6 +30,7 @@ Pinvyn is a split keyboard for coding and writing, with a thumb trackball on the
 | [docs/bom.md](docs/bom.md) | Parts list for v0.1 and where to order |
 | [layout/pinvyn-v0.1-layout.json](layout/pinvyn-v0.1-layout.json) | Key and part positions per half |
 | [layout/pinvyn-v0.1-layout.svg](layout/pinvyn-v0.1-layout.svg) | Layout drawing |
+| [case/generate_plate.py](case/generate_plate.py) | Script that produces the printable switch plates and a fit-test piece (STL files in `case/`) |
 | [layout/generate_layout.py](layout/generate_layout.py) | Script that produces both layout files |
 
 ## Next steps
