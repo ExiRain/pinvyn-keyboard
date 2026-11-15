@@ -6,13 +6,13 @@ Prices are what turned up in a web search on 2026-11-15 and will move. "Not chec
 |---|---|---|---|---|
 | nRF52840 controller, "SuperMini nRF52840" (nice!nano v2 clone) | 2, buy 3 | AliExpress | A few dollars each | Builds in ZMK as `nice_nano_v2`. Reliability can vary, hence the spare. The original nice!nano v2 costs about ten times more. |
 | Display, nice!view type (36 × 14 mm memory LCD) | 1 | splitkb.com (NL) | About €24 | Left half, battery status |
-| Trackball, 34 mm | 1 | Perixx, via Perixx Europe or Amazon.de | About $11–14 | Sold as a replacement ball for trackball mice |
-| PMW3610 sensor board | 1 | AliExpress, or Randware on Tindie | Tindie: $25, ships from the US | Sits under the ball |
-| Ball supports | 3 | Not chosen | | Ball transfer units or small bearings on pins, see design.md |
+| Trackball, 34 mm, Perixx PERIPRO-303 | 1 | perixx.com or Amazon.de | €11.99 on perixx.com | Sold as a replacement ball for trackball mice |
+| PMW3610 sensor board with LM18-LSI lens | 1 | AliExpress, or Randware on Tindie | Tindie: $25, ships from the US | Sits under the ball. Prefer a badjeff or siderakb design, which the reference mount is drawn for |
+| Ceramic balls, 2.5 mm (ZrO2 or Si3N4) | 3, buy a bag | AliExpress | Cents each | Static supports for the trackball |
 | Mouse-wheel encoder | 2, buy 4 | AliExpress | Cents to a couple of dollars | For the two scrollers; wheels get printed |
 | MX switches | 73, buy 80 | AliExpress, or splitkb / KEYGEM in the EU | Depends on the switch | |
 | Keycaps, with three 2u caps | 1 set | Same shops | Depends on the set | Two Space keys and Enter are 2u |
-| 2u stabilizers | 3 | Same shops | | |
+| 2u stabilizers, plate-mount | 3 | Same shops | | No PCB in v0.1, so they must mount in the plate |
 | 1N4148 diodes, through-hole (DO-35) | 80 | Local electronics shop (Oomipood, not checked), Farnell Estonia | Cents each | One per switch |
 | TRRS jacks | 2 | Local electronics shop or splitkb | | 4-pole |
 | TRRS cable | 1 | Any | | 4-pole |

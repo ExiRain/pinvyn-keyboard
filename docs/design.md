@@ -1,6 +1,6 @@
 # Pinvyn v0.1 design
 
-State on 2026-11-15. This file records what was decided, why, and what is still open. Positions live in [`layout/pinvyn-v0.1-layout.json`](../layout/pinvyn-v0.1-layout.json).
+State on 2026-11-15. This file records what was decided, why, and what is still open. The step-by-step build guide is [HANDOFF.md](HANDOFF.md). Positions live in [`layout/pinvyn-v0.1-layout.json`](../layout/pinvyn-v0.1-layout.json).
 
 ## Goal
 
@@ -31,13 +31,13 @@ Fn is a hold key, like Fn on a laptop: active only while held, no toggle and no 
 | Hold Fn + | Gives | Status |
 |---|---|---|
 | 1 … 0, -, = | F1 … F12 | Agreed |
-| I / J / K / L | ↑ / ← / ↓ / → | Proposed |
-| U / O | PgUp / PgDn | Proposed |
-| a spare key | Menu | Proposed |
+| I / J / K / L | ↑ / ← / ↓ / → | Agreed |
+| U / O | PgUp / PgDn | Agreed |
+| M | Menu | Agreed |
 
 ## Pointing
 
-- **Trackball**: 34 mm ball under the right thumb, PMW3610 sensor underneath. The thumb keeps the fingers on the keys while the cursor moves.
+- **Trackball**: 34 mm ball under the right thumb, PMW3610 sensor underneath. It rests on three static 2.5 mm ceramic balls. The thumb keeps the fingers on the keys while the cursor moves.
 - **Mouse buttons** sit above the ball, left of the H column, and are pressed with the index finger. Dragging needs a different finger on the button than on the ball, which rules out buttons below the ball.
 - **Scrollers** on the left half: the one near the thumb scrolls up/down, the upper one left/right. Each is a mouse-wheel encoder with a printed wheel. The Panasonic EVQWGD001 roller encoder was the first pick but is discontinued and expensive.
 
@@ -83,7 +83,5 @@ Still valid: the name Pinvyn, the red feather mark, the two licences, ZMK, the P
 - Where the controllers, the TRRS jacks, the USB port and the power switch sit in each half.
 - Battery size.
 - Keycap profile and stabilizer type for the three 2u keys.
-- Ball support: ball transfer units (earlier pick) or small bearings on pins.
 - RGB lighting and macro keys from the earlier notes have not been discussed for this design.
-- The proposed Fn-layer entries above.
-- `LICENSE-HARDWARE` holds a summary; the full Creative Commons legal text still has to replace it, and both licence files still carry a name placeholder.
+- `LICENSE-HARDWARE` holds a summary; the full Creative Commons legal text still has to replace it.
